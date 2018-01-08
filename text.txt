@@ -1,4 +1,4 @@
 here is some text
 here are some changes
-here is some other text
+here is some other text - small change
 more text written in fork
